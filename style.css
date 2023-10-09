@@ -492,6 +492,9 @@ nav .fas {
     font-size: 200px;
     /* change this to change the size*/
 }
+.git:hover{
+    color: #fff;
+}
 
 .logoy {
     font-family: 'Times New Roman', Times, serif;
